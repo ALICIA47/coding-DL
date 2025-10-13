@@ -1,0 +1,18 @@
+prefetch dlls takes 4 ms
+android version: android_6
+data pattern file exist
+vdiPath: E:\MuMu\emulator\nemu\device\\..\vms\nemu-6.0-x64-default\nemu-6.0-x64-default-disk1.vdi
+patternPath: E:\MuMu\emulator\nemu\device\\..\vms\nemu-6.0-x64-default\nemu-6.0-x64-default-disk1.raw
+print meta data: data_type: 1
+type_1, type: 1, size: 320622080 B, ele_num: 4826
+type_2, type: 2, size: 320622080 B, ele_num: 754
+avail phys: 27900 MB
+prefetch system vdi 305.769043 MB takes 41 ms
+vdiPath: E:\MuMu\emulator\nemu\device\\..\vms\nemu-6.0-x64-default\nemu-6.0-x64-default-disk2.vdi
+patternPath: E:\MuMu\emulator\nemu\device\\..\vms\nemu-6.0-x64-default\nemu-6.0-x64-default-disk2.raw
+print meta data: data_type: 2
+type_1, type: 1, size: 82223104 B, ele_num: 1598
+type_2, type: 2, size: 82223104 B, ele_num: 339
+avail phys: 27897 MB
+prefetch data vdi 78.414063 MB takes 10 ms
+prefetch webengine dll takes 16 ms
